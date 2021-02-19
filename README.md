@@ -15,3 +15,5 @@ OR
 ALLISON WESLEY 28/01/1990
 
 Depending on the arguments passed to the program (either "-tc" or "-u")
+
+You can find out more about this project in the accompanying PDF
